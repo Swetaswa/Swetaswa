@@ -7,12 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetaswa&label=Profile%20views&color=0e75b6&style=flat" alt="swetaswa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swetaswa" alt="swetaswa" /></a>
-<img align="right" alt="Coding" width="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+
 </p>
 
 - 🔭 I’m currently working on **CROP RECOMMENDATION BASED ON WEATHER CONDITION**
 
 - 🌱 I’m currently learning **React, Hibernate , Spring**
+- <img align="right" alt="Coding" width="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 - 👯 Project 1 [BRAIN TUMOR DETECTION](https://github.com/Swetaswa/Brain-tumor-detection)
 
