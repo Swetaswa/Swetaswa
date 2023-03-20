@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **CROP RECOMMENDATION BASED ON WEATHER CONDITION**
 
 - 🌱 I’m currently learning **React, Hibernate , Spring**
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2gfRHLv6GZ8AAAAM/code-coding.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/2gfRHLv6GZ8AAAAM/code-coding.gif">
 
 - 👯 Project 1 [BRAIN TUMOR DETECTION](https://github.com/Swetaswa/Brain-tumor-detection)
 
