@@ -15,9 +15,11 @@
 - 🌱 I’m currently learning **React, Hibernate , Spring**
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/2gfRHLv6GZ8AAAAM/code-coding.gif">
 
-- 👯 Project 1 [BRAIN TUMOR DETECTION](https://github.com/Swetaswa/Brain-tumor-detection)
+- 🤝 Project 1 [BRAIN TUMOR DETECTION](https://github.com/Swetaswa/Brain-tumor-detection)
 
 - 🤝 Project 2 [AI CAR SIMULATION](https://github.com/Swetaswa/AI-car-simulation-using-NEAT-algorithm)
+
+- 🤝 Project 3 [Online Ticket Checker](https://github.com/Swetaswa/Online-Ticket-Checker)
 
 - 👨‍💻 All of my projects are available at [swetaswa.github.io](swetaswa.github.io)
 
