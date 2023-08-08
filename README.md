@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://swetaswa.github.io)
 
 <h1 align="center">Hi 👋, I'm Swetaswa Basak</h1>
-<h3 align="center">Passionate Coder | Accenture Developer Intern | Pursuing M.Tech in Software Engineering // The goto developer you don't wanna miss</h3>
+<h3 align="center">R&D-SDE intern at NOKIA | Accenture Developer Intern | Pursuing M.Tech in Software Engineering // The goto developer you don't wanna miss</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetaswa&label=Profile%20views&color=0e75b6&style=flat" alt="swetaswa" /> </p>
