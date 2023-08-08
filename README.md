@@ -10,9 +10,9 @@
 
 </p>
 
-- 🔭 I’m currently working on **CROP RECOMMENDATION BASED ON WEATHER CONDITION**
+- 🔭 I’m currently working on **Scalability of Altiplano and simulating DSLAMs**
 
-- 🌱 I’m currently learning **React, Hibernate , Spring**
+- 🌱 I’m currently learning **K8s, HELM, Docker**
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/2gfRHLv6GZ8AAAAM/code-coding.gif">
 
 - 🤝 Project 1 [BRAIN TUMOR DETECTION](https://github.com/Swetaswa/Brain-tumor-detection)
